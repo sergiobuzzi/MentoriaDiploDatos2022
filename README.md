@@ -19,7 +19,7 @@ En la carpeta [datasets](https://github.com/sergiobuzzi/MentoriaDiplodatos2022/b
 
 Los datos son tomados de la competencia ["Store Sales - Time Series Forecasting - Use machine learning to predict grocery sales"](https://www.kaggle.com/competitions/store-sales-time-series-forecasting) de la plataforma kaggle.com.
 
-A continuación se plantean los posibles contenidos generales a desarollar en los prácticos:
+A continuación se plantean los posibles contenidos generales a desarrollar en los prácticos:
 
 #### TP1: Análisis y Visualización
 
