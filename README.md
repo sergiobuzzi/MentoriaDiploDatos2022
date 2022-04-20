@@ -1,5 +1,3 @@
-### MentoriaDiploDatos2022
-
 ## Repositorio de la mentoría: 
 
 # Predicción de Ventas en las Sucursales de una Cadena de Supermercados
@@ -13,7 +11,7 @@ La correcta predicción de las unidades vendidas permite: por un lado, evitar de
 
 Además es de interés conocer qué tipo de algoritmo funcionará mejor. Por una parte, los modelos de aprendizaje profundo poseen la capacidad de capturar patrones complejos y no linealidades, pero alcanzan a desplegar toda su potencialidad en datasets grandes. Por la otra parte, los modelos estadísticos de series temporales no requieren tanta información pero presentan cierta dificultad para modelar no linealidades o quiebres estructurales. De esto surge la posibilidad de combinar ambos metodologías y probablemente de mejorar los resultados por medio de ingeniería de features y transformaciones basadas en el conocimiento del área específica.
 
-Intentaremos responder preguntas tales como cuáles variables proveen mas información para predeceir las ventas, si hay productos o sucursales similares, si los días de la semana, los días feriados y la ubicación de las sucursales impactan en las ventas, etc.
+Intentaremos responder preguntas tales como: cuáles variables proveen mas información para predeceir las ventas, si hay productos o sucursales similares, si los días de la semana, los días feriados y la ubicación de las sucursales impactan en las ventas, etc.
 
 En la carpeta [datasets](https://github.com/sergiobuzzi/MentoriaDiplodatos2022/blob/master/datasets) se proveen varios archivos con datos sobre las ventas discriminadas por sucursal y rubro y otras variables como días festivos y promociones. ¡Si deseas agregar otras variables mejor! También hay información sobre el estado y la ciudad donde se encuentra cada sucursal. Esta información nos permitirá trabajar muchos contenidos de la Diplo.
 
